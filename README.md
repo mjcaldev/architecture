@@ -12,6 +12,6 @@ Feel free to reach out if you'd like to collaborate or implement one of these ar
 - LinkedIn: [linkedin.com/in/mjcaldev](https://linkedin.com/in/mjcaldev)
 - Email: contact@mjcal.dev
 
-- ## Next Steps
+## Next Steps
 - Provide in depth descriptions of each architecture
 - Post scripts and IaC for templated implementation
